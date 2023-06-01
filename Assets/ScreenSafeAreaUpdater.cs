@@ -2,7 +2,7 @@ using System;
 using UniRx;
 using UnityEngine;
 
-public class SafeAreaUpdater : MonoBehaviour
+public class ScreenSafeAreaUpdater : MonoBehaviour
 {
     [Header("References")]
     [SerializeField] private RectTransform _rectTransform;
